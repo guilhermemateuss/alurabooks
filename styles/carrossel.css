@@ -23,4 +23,12 @@ margin: 0.5em o ;
 .card__descrição
 {
     display: flex;
+    justify-content: space-between;
+}
+.card__botões{
+    display: flex;
+    justify-content: space-between;
+}
+.botões{
+    display: flex;
 }
